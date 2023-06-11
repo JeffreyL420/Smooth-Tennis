@@ -1,0 +1,63 @@
+{
+  "identifier" : "2E5F7167",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "38C1EF5C",
+      "localizations" : [
+        {
+          "description" : "Ten Ps",
+          "displayName" : "Ten Ps",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.getTenPs",
+      "referenceName" : "tenPs",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "C60F60DD",
+      "localizations" : [
+        {
+          "description" : "Fifty Ps",
+          "displayName" : "Fifty Ps",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.getFiftyPs",
+      "referenceName" : "fiftyPs",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "344614A8",
+      "localizations" : [
+        {
+          "description" : "Hundred Ps",
+          "displayName" : "Hundred Ps",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.getHundredPs",
+      "referenceName" : "hundredPs",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
